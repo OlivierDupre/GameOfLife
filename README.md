@@ -1,2 +1,2 @@
 # GameOfLife
-The game of the life...
+The game of life!!!
